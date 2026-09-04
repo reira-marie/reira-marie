@@ -16,7 +16,7 @@
 - 🛡️ Experience in **software testing** (SDLC, OWASP ZAP) and IT systems support
 - 🌱 Managed end-to-end delivery of a client-facing capstone project — from stakeholder communication to responsive UI and backend architecture
 - 🎯 Currently seeking a **Full Stack / Front-End Developer** role to apply my React and cross-platform mobile development skills
-- ⚡ Fun fact: I've built everything from a composting IoT app to a POS system for a lechon manok business!
+
 
 ---
 
